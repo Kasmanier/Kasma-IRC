@@ -1,0 +1,12 @@
+# C++
+*.com
+*.dll
+*.exe
+*.o
+*.so
+
+# Qt
+*.pro.user
+
+# Stuff
+*.directory
