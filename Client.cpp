@@ -110,7 +110,7 @@ void Client::slotHelp()
 
 void Client::slotAbout()
 {
-	QMessageBox::information(this, "About", "Karma IRC Client v0.0.1\n\nAuthor: Simon Waechter\nContact: waechter.simon@gmail.com\nDate: January 2013\nLanguage: C++ and Qt");
+	QMessageBox::information(this, "About", "Karma IRC Client v0.0.1 (Unstable)\n\nAuthor: Simon Waechter\nContact: waechter.simon@gmail.com\nDate: January 2013\nLanguage: C++ and Qt");
 }
 
 void Client::slotChangeConnectionItem(const int index)
